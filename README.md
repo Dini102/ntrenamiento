@@ -1,0 +1,2 @@
+# ntrenamiento
+ejemplo de algoritmo
